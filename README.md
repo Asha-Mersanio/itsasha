@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asha</h1>
-<h3 align="center">Manual Tester | Web Developer | Graphic Designer | Passionate About Building and Perfecting Digital Experiences"</h3>
+<h3 align="center">Graphic Designer | UI/UX Designer | 2 Yrs IT Exp | Canva • Figma • CapCut | Ex-Manual Tester turned Designer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asha-mersanio&label=Profile%20views&color=0e75b6&style=flat" alt="asha-mersanio" /> </p>
 
